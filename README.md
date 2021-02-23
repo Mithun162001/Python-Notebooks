@@ -11,4 +11,5 @@ TO REFER:-
 5. Basic matplotlib
 6. Seaborn Library
 7. Plotly and Cufflinks
-8. Geographical PLotting
+8. Geographical Plotting
+9. Natural Language Processing
