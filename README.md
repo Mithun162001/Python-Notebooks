@@ -1,7 +1,7 @@
 # Python-Notebooks
 
 All Jupyter and Colab Notebooks are here
-# Completed:- Numpy, Pandas, Matplotlib, Seaborn, Plotly & Cufflinks
+# Completed:- Numpy, Pandas, Matplotlib, Seaborn, Plotly & Cufflinks, machine Learning
 
 TO REFER:-
 1. Basic Operations in Pandas
@@ -13,3 +13,4 @@ TO REFER:-
 7. Plotly and Cufflinks
 8. Geographical Plotting
 9. Natural Language Processing
+10. Machine Learning *
