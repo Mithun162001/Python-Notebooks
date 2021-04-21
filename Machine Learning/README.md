@@ -6,3 +6,4 @@ Topics completed:-
 * Decision Trees
 * Random Forests
 * Logistic Regression
+* Support Vector Machine
