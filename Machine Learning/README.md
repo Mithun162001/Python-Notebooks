@@ -10,3 +10,4 @@ Topics completed:-
 * Random Forests
 * Logistic Regression
 * Support Vector Machine
+* Fine tuning ML models
