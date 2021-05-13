@@ -10,6 +10,7 @@ Topics completed:-
 * Random Forests
 * Logistic Regression
 * Support Vector Machine
-* K means clustering
-* Hierarchical clustering
+* K means clustering (partition based clustering)
+* Agglomerative clustering (Hierarchical clustering)
+* DBSCAN (desnity based clustering)
 * Fine tuning ML models
