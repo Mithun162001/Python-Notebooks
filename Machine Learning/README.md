@@ -13,4 +13,5 @@ Topics completed:-
 * K means clustering (partition based clustering)
 * Agglomerative clustering (Hierarchical clustering)
 * DBSCAN (desnity based clustering)
+* Principal Component Analysis (Data dimensionality reduction technique)
 * Fine tuning ML models
