@@ -14,4 +14,5 @@ Topics completed:-
 * Agglomerative clustering (Hierarchical clustering)
 * DBSCAN (desnity based clustering)
 * Principal Component Analysis (Data dimensionality reduction technique)
+* Basic Recommender systems
 * Fine tuning ML models
