@@ -11,7 +11,7 @@ All Jupyter and Colab Notebooks are present here
 <h2>Completed:- Numpy, Pandas, Matplotlib, Seaborn, Plotly & Cufflinks, machine Learning </h2>
 
 TO REFER:- <br>
-[1. Basic Operations in Pandas](https://github.com/Mithun162001/Python-Notebooks/tree/main/Basic%20operations%20in%20Pandas) <br>
+1. Basic Operations in Pandas<br>
 2. Basic Descriptive Statistics Using Pandas <br>
 3. Data Manipulation in Pandas <br>
 4. Merging data using Pandas <br>
