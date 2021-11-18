@@ -13,7 +13,9 @@ All Jupyter and Colab Notebooks are present here
 LINK:- https://mithun162001.github.io/Python-Notebooks/
 
 
-Completed:- Numpy, Pandas, Matplotlib, Seaborn, Plotly & Cufflinks, machine Learning
+Completed:- Numpy, Pandas, Matplotlib, Seaborn, Plotly & Cufflinks, Machine Learning
+
+To be starting:- Deep Learning and Neural Networks, Computer Vision, Natural Language Processing
 
 TO REFER:- <br>
 1. Basic Python
@@ -28,3 +30,4 @@ TO REFER:- <br>
 10. Geographical Plotting <br>
 11. Natural Language Processing <br>
 12. Machine Learning * <br>
+13. Deep Learning and Neural Networks * <br>
