@@ -26,8 +26,9 @@ TO REFER:- <br>
 6. Merging data using Pandas <br>
 7. Basic matplotlib <br> 
 8. Seaborn Library <br>
-9. Plotly and Cufflinks <br> 
-10. Geographical Plotting <br>
-11. Natural Language Processing <br>
-12. Machine Learning * <br>
-13. Deep Learning and Neural Networks * <br>
+9. Streamlit Library <br>
+10. Plotly and Cufflinks <br> 
+11. Geographical Plotting <br>
+12. Natural Language Processing <br>
+13. Machine Learning * <br>
+14. Deep Learning and Neural Networks * <br>
